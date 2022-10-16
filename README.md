@@ -4,7 +4,6 @@ LISTA DE TAREFAS
 Técnologias utilizadas: HTML, CSS, e Java Script 
 <br>
 
-Curso: 
-Curso de JavaScript e TypeScript do básico ao avançado 
+Código desenvolvido no curso: Curso de JavaScript e TypeScript do básico ao avançado 
 <br>
-Luiz Otávio Miranda
+tutorial pelo professor Luiz Otávio Miranda
