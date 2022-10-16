@@ -1,4 +1,5 @@
-Lista de Tarefas:
+LISTA DE TAREFAS 
+<br>
 <br>
 Técnologias utilizadas: HTML, CSS, e Java Script 
 <br>
