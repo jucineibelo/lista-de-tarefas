@@ -33,6 +33,15 @@ body {
     color: #0a546e;
 }
 
+
+button {
+    background: #70dff8be;
+    border-radius: 0.3rem;
+    color: #0a546e;
+    padding: 0.5% 1% 0.5% 1%;
+    border:1px solid #3F9BBF;
+}
+
 @media (max-width: 760px) {
     body {
         margin: 0;
@@ -58,5 +67,12 @@ body {
         font-size: 1.5rem;
         margin-bottom: 5%;
         color: #0a546e;
+    }
+    button {
+        background: #70dff8be;
+        border-radius: 0.3rem;
+        color: #0a546e;
+        padding: 0.5% 1% 0.5% 1%;
+        border:1px solid #3F9BBF;
     }
 }
